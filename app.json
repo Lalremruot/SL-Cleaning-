@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "SL-Cleaning-Service",
+    "slug": "SL-Cleaning-Service",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/SLReal.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/SL.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/SLREAL.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lalremruot.SLCleaningService"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        
+      }
+    }
+  }
+}
