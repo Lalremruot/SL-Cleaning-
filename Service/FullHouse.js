@@ -58,7 +58,7 @@ const FullHouse = () => {
                Rs. 3499 {'\n'}<Text style={{color: 'red',fontSize: 16,}}>30% off</Text>
           </Text>
           <Text style={{ fontWeight: "500", margin: 20, color: "gray" }}>
-            • Includes - single varenda, 1 sitting room, single bedroom, single
+            • Includes - single varenda, 1 sitting room, 1 bedroom, single
             kitchen, single bathroom
           </Text>
           <Text
